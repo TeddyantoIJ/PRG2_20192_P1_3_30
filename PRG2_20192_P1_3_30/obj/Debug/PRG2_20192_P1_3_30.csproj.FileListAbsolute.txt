@@ -1,0 +1,7 @@
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\obj\Debug\PRG2_20192_P1_3_30.csprojAssemblyReference.cache
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\obj\Debug\PRG2_20192_P1_3_30.csproj.CoreCompileInputs.cache
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\bin\Debug\PRG2_20192_P1_3_30.exe.config
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\bin\Debug\PRG2_20192_P1_3_30.exe
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\bin\Debug\PRG2_20192_P1_3_30.pdb
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\obj\Debug\PRG2_20192_P1_3_30.exe
+C:\Users\Polman\source\repos\PRG2_20192_P1_3_30\PRG2_20192_P1_3_30\obj\Debug\PRG2_20192_P1_3_30.pdb
